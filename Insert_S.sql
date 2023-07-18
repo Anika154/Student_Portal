@@ -1,0 +1,15 @@
+INSERT INTO Student VALUES 
+  ('101', 'Shudipto', 'English', 'Male', '03/03/2000', 'Mirpur 11','Bnagladesh', '1216'),
+  ('102', 'Orin', 'Bangla', 'Female', '10/04/2005', 'Skagen 21','Norway', '4006'),
+  ('103', 'Shuvo', 'Math', 'Male', '15/05/2007', 'Suite 3B','USA', '98128'),
+  ('104', 'Ana', 'CSE', 'Female', '12/01/2008', 'Keskuskatu 45','Finland', '21240'),
+  ('105', 'Alfred', 'EEE', 'Male','23/06/2009', 'Filtrowa 68','Poland', '01012'),
+  ('106', 'Munni', 'Chemistry', 'Female', '20/09/2006', 'Obere Str. 57','Germany', '12209'),
+  ('107', 'Orbin', 'NFE', 'Male', '18/07/2003', 'Mataderos 2312','Mexico', '05021'),
+  ('108', 'Antonio', 'BBA', 'Male', '21/11/2002', '120 Hanover','UK', '30765'),
+  ('109', 'Moreno', 'Civil', 'Male', '11/02/2001', 'Berguvsvägen 8','Sweden', '95822'),
+  ('110', 'Familia', 'Philosophy', 'Female', '13/08/2010', '2, rue du Commerce','France', '51100'),
+  ('111', 'Lila', 'Literature', 'Female', '13/06/2011', '25, rue du Commerce','France', '75016'),
+  ('112', 'Tom', 'Economics', 'Male', '25/08/2012', '722 DaVinci Blvd.','USA', '98034'),
+  ('113', 'Clover', 'Physics', 'Male', '22/09/2009', 'Luisenstr. 48','Germany', '44087'),
+  ('114', 'Wilman', 'Pharmacy', 'Male', '14/12/2013', 'Torikatu 38','Finland', '90110');
