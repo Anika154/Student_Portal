@@ -1,3 +1,4 @@
 SELECT * FROM Student;
   
- SELECT * FROM Fees;
+SELECT * FROM Fees;
+
